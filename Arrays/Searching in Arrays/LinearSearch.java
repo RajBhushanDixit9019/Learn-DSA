@@ -1,4 +1,13 @@
+// Linear Search Algorithm:
 
+//Step 1: Traversing to each element in array
+
+//Step 2: Current element is compared with the target element
+
+//Step 3: If current element maches then element is located or else element is not found in the array.
+
+
+// Implementation:
 
 public class LinearSearch {
     
